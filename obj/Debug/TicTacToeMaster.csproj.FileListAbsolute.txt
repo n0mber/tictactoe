@@ -1,0 +1,7 @@
+D:\TEMP\C#\Masterclass\TicTacToeMaster\bin\Debug\TicTacToeMaster.exe.config
+D:\TEMP\C#\Masterclass\TicTacToeMaster\bin\Debug\TicTacToeMaster.exe
+D:\TEMP\C#\Masterclass\TicTacToeMaster\bin\Debug\TicTacToeMaster.pdb
+D:\TEMP\C#\Masterclass\TicTacToeMaster\obj\Debug\TicTacToeMaster.csproj.AssemblyReference.cache
+D:\TEMP\C#\Masterclass\TicTacToeMaster\obj\Debug\TicTacToeMaster.csproj.CoreCompileInputs.cache
+D:\TEMP\C#\Masterclass\TicTacToeMaster\obj\Debug\TicTacToeMaster.exe
+D:\TEMP\C#\Masterclass\TicTacToeMaster\obj\Debug\TicTacToeMaster.pdb
